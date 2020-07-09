@@ -71,7 +71,7 @@ hr {
     display: none;
     position: fixed; /* stays in place */
     z-index: 1; /* stays on top */
-    padding-top: 3%;
+    padding-top: 1%;
     left: 0;
     right: 0;
     width: 100%;
