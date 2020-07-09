@@ -136,6 +136,10 @@ footer{
     
 }
 
+.resources{
+    padding-top: 2%;
+}
+
 /* creates the modal fade in */
 @keyframes modalopen{
     from{opacity: 0;}
